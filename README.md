@@ -1,0 +1,3 @@
+# Crash-Course-On-Python
+
+Here's some codes from the course: [*Crash Course on Python*](https://www.coursera.org/learn/python-crash-course) which is provided by **Google**. It's a part of the specialization: [*Google IT Automation with Python Professional Certificate*](https://www.coursera.org/professional-certificates/google-it-automation). It's a totally basic cource which is suitable for newbies in programming. I'll be uploading some of my important codes here so it'd be beneficial for those who are trying to finish this basic course to get access to the advanced courses on the specialization. Thank you.
