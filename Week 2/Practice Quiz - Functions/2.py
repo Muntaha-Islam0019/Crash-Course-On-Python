@@ -8,5 +8,5 @@ def order_numbers(number1, number2):
 
 # 1) Fill in the blanks so the print statement displays the result
 #    of the function call
-___, ___ = order_numbers(100, 99)
+smaller, bigger = order_numbers(100, 99)
 print(smaller, bigger)
